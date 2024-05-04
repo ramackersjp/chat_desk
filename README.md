@@ -59,7 +59,7 @@ where, platform is either **windows** or **mac**.
 
 - **Clone the repo**
 ```shell
-git clone https://github.com/omegaui/chat_desk
+git clone https://github.com/ramackersjp/chat_desk
 cd chat_desk
 ```
 
